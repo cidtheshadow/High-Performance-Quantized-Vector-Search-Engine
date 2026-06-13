@@ -43,3 +43,5 @@ optimized-rag/
 ├── main.py                 # Real-world HF streaming and recall evaluation harness
 ├── requirements.txt        # Dependency manifest
 └── README.md
+└──.gitignore
+
